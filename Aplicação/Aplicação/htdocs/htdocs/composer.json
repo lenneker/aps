@@ -1,0 +1,13 @@
+{
+    "name": "guilherme/ue-chamados",
+    "description": "UE - Chamados",
+    "authors": [
+        {
+            "name": "Guilherme Gama"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

@@ -1,0 +1,17 @@
+---------------------------------------
+Usuários para acessar a aplicação
+---------------------------------------
+
+Admin User (Colaborador da Prefeitura)
+
+user:root
+senha: 123
+
+---------------------------------------
+
+Normal User (Usuário)
+
+user:user
+senha: 123
+
+---------------------------------------
